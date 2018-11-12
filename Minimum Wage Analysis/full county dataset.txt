@@ -1,0 +1,62 @@
+typical household: 2.54 people (https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)
+(2018) all figures: 2 adults, 1 child, both work
+alameda: 17.71
+alpine: 13.35
+amador: 13.90
+butte: 13.60
+calaveras: 13.42
+colusa: 13.27
+contra costa: 17.71
+del norte: 13.49
+el dorado: 13.97
+fresno: 13.48
+glenn: 13.12
+humboldt: 13.94
+imperial: 13.27
+inyo: 13.45
+kern: 13.34
+kings: 13.21
+lake: 13.58
+lassen: 13.58
+los angeles: 15.65
+madera: 13.50
+marin: 20.49
+mariposa: 13.41
+mendocino: 13.96
+merced: 13.12
+modoc: 12.81
+mono: 14.48
+monterey: 15.23
+napa: 15.82
+nevada: 14.87
+orange: 16.53
+placer: 13.97
+plumas: 13.30
+riverside: 14.50
+sacramento: 13.97
+san benito: 15.47
+san bernardino: 14.50
+san diego: 16.29
+san francisco: 20.49
+san joaquin: 13.75
+san luis obispo: 14.87
+san mateo: 20.49
+santa barbara: 15.68
+santa clara: 17.87
+santa cruz: 16.58
+shasta: 13.50
+sierra: 14.35
+siskiyou: 13.24
+solano: 14.82
+sonoma: 15.74
+stanislaus: 13.65
+sutter: 13.48
+tehama: 13.27
+trinity: 13.24
+tulare: 13.44
+tuolomne: 13.75
+ventura: 16.36
+yolo: 14.43
+yuba: 13.48
+
+source of data taken: http://livingwage.mit.edu/

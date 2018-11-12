@@ -1,0 +1,27 @@
+earliest first customer purchase: 1/4/1999
+most recent first customer purchase: 5/30/2016
+earliest transaction (in dataset): 1/2/2013
+latest transaction (in dataset): 4/30/2016
+
+regional averages (check)
+regional max/min, std dev (check)
+there are regional differences. 
+Some sell better, others sell worse. 
+(on average not so much, but yes in total)
+(this is also true over time)
+
+
+total sales amount per day (check)
+total sales amount per year (check)
+business is deteriorating.
+
+seasonality
+total sales by month over time (check)
+total sales by month by year (check)
+
+customer quality
+aggregate total sales over time (check)
+average transaction amount by join year (check)
+user growth (check)
+customer quality is getting better over time marginally
+

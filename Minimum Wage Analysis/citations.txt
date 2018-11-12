@@ -1,0 +1,4 @@
+1. http://livingwage.mit.edu/resources/Living-Wage-User-Guide-and-Technical-Notes-2017.pdf
+2. https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
+3. https://data.chhs.ca.gov/dataset/living-wage/resource/f5a57e7a-e0fe-4d80-b0f6-92d66ecb907f
+4. http://livingwage.mit.edu/ (data scraped from this site for all CA counties for 2018.)

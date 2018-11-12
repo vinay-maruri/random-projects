@@ -1,0 +1,28 @@
+double eights:
+iter:
+prev_eight = False
+while n > 0:
+    last_digit = n % 10
+    if last_digit == 8 and prev_eight:
+        return True
+    elif last_digit == 8:
+        prev_eight = True
+    else:
+        prev_eight = False
+    n = n // 10
+return False
+
+recur:
+prev_eight = boo
+    last_digit = n % 10
+    if last_digit == 8 and prev_eight:
+        return True
+    elif last_digit == 8:
+        prev_eight = True
+    else:
+        prev_eight = False
+    n = n // 10
+    if n < 8:
+        return False
+    return double_eightsrecur(n, prev_eight)
+

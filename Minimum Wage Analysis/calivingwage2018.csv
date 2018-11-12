@@ -1,0 +1,73 @@
+id,County Name,Wage per hour
+,,
+1,alameda,30.56
+2,alpine,21.83
+3,amador,22.92
+4,butte,22.34
+5,calaveras,21.97
+6,colusa,21.67
+7,contra costa,30.56
+8,del norte,22.12
+9,el dorado,23.08
+10,fresno,22.1
+11,glenn,21.36
+12,humboldt,23.01
+13,imperial,21.67
+14,inyo,22.04
+15,kern,21.82
+16,kings,21.55
+17,lake,22.29
+18,lassen,22.3
+19,los angeles,26.43
+20,madera,22.14
+21,marin,36.11
+22,mariposa,21.95
+23,mendocino,23.05
+24,merced,21.37
+25,modoc,20.75
+26,mono,24.09
+27,monterey,25.59
+28,napa,26.78
+29,nevada,24.88
+30,orange,28.19
+31,placer,23.08
+32,plumas,21.73
+33,riverside,24.14
+34,sacramento,23.08
+35,san benito,26.07
+36,san bernardino,24.14
+37,san diego,27.72
+38,san francisco,36.11
+39,san joaquin,22.63
+40,san luis obispo,24.88
+41,san mateo,36.11
+42,santa barbara,26.49
+43,santa clara,30.86
+44,santa cruz,28.29
+45,shasta,22.13
+46,sierra,23.84
+47,siskiyou,21.62
+48,solano,24.78
+49,sonoma,26.6
+50,stanislaus,22.44
+51,sutter,22.09
+52,tehama,21.68
+53,trinity,21.61
+54,tulare,22.01
+55,tuolomne,22.64
+56,ventura,27.85
+57,yolo,23.99
+58,yuba,22.09
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+data collected by Vinay Maruri,,
+source of data taken: http://livingwage.mit.edu/,,
+,,
+typical household: 2.54 people (https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/),,
+"(2018) all figures: 2 adults, 1 child, both work",,

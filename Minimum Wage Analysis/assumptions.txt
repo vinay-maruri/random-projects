@@ -1,0 +1,8 @@
+set of assumptions: 
+1. Because the typical family size is 2.54 people, living wage data displayed is for a 2 adult, 1 child family. 
+2. Because the California HHS dataset (ca-livingwage.csv) assumes this type of family has one worker; the living
+wage is what one worker would need to make per hour in that county. 
+3. This data was all taken from the MIT Living Wage Calculator. Their definition of a living wage is:
+"a 'step up' from poverty as measured by the poverty thresholds". It accounts for the basic needs of a family.
+It is the minimum subsistence wage for persons living in the United States. (no need for public assistance
+and no severe housing + food insecurity)

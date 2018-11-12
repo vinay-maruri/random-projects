@@ -1,0 +1,15 @@
+1. Download Python 3.7.1 (latest release)
+https://www.python.org/downloads/ (windows)
+https://www.python.org/downloads/mac-osx/ (mac)
+2. Install Anaconda.
+https://www.anaconda.com/download/
+(follow instructions for windows/mac/linux)
+All relevant packages/libraries for workshop are downloaded 
+as part of Anaconda.
+
+3. Inside Anaconda, install jupyter notebook. 
+This will be our environment for the workshop. It's more usable
+than a traditional text editor because it's interactive and
+you can test portions of code instead of all at once.
+
+
