@@ -2,3 +2,15 @@
 2. https://www.kaggle.com/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
 3. https://data.chhs.ca.gov/dataset/living-wage/resource/f5a57e7a-e0fe-4d80-b0f6-92d66ecb907f
 4. http://livingwage.mit.edu/ (data scraped from this site for all CA counties for 2018.)
+5. https://www.ers.usda.gov/webdocs/DataFiles/53180/25559_CA.pdf?v=0
+6. https://scdd.ca.gov/wp-content/uploads/sites/33/2018/01/Exhbit-A-SCDD-2016-California-Poverty-Levels-by-County.pdf
+7. https://www.epi.org/minimum-wage-tracker/
+8. https://www.sacbee.com/news/politics-government/capitol-alert/article156853119.html
+9. https://www.gao.gov/products/GAO-17-677
+10. https://www.census.gov/content/dam/Census/library/publications/2018/demo/p60-265.pdf
+11. https://www.usnews.com/news/best-states/articles/2018-06-20/the-10-states-with-the-highest-average-gas-prices
+12. https://www.forbes.com/sites/samanthasharf/2017/11/28/full-list-americas-most-expensive-zip-codes-2017/#43a5230c5d19
+13. https://www.epi.org/resources/budget/budget-map/
+
+
+
